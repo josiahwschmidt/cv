@@ -6,23 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Jing Deng
-title: Software Engineer (SDE)
-email: cugbjing@gmail.com
-website: https://cugbjing.github.io/resume/
+name: Josiah Schmidt
+title: PhD candidate
+email: josiahschmidt@wustl.edu
+website: https://schmidtgen.com
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  cugbjing
+github_username:  josiahwschmidt
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: jing-deng-39ab5a17
+linkedin_username: josiah-schmidt-65b00026
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
@@ -48,10 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jing and I'm a full stack web developer with professional experience in developing Web applications, automation pipelines, and APIs supported by AWS platform, plus proficient knowledge in GIS applications.
-
-  I have worked with various programming languages and frameworks and I am passionate about learning something new. The things that I currently have the most experience working with are: 
-  <mark>Python</mark>, <mark>JavaScript</mark>, <mark>RESTfull</mark>, <mark>AWS</mark>, <mark>Firebase</mark>, <mark>SQL</mark>, <mark>React/Redux</mark>, <mark>Node JS</mark>, <mark>Material UI</mark>, <mark>HTML</mark>, <mark>CSS</mark>, <mark>ArcGIS</mark>, <mark>OpenLayers</mark>, <mark>Geoserver</mark>, <mark>PostgreSQL</mark>, <mark>shell script</mark>
+  Hi, my name is Josiah and I'm not a full stack web developer with professional experience in developing Web applications, automation pipelines, and APIs supported by AWS platform, plus proficient knowledge in GIS applications.
 
 content:
   - title: Experience # Title for the section
